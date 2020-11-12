@@ -1,4 +1,4 @@
-# NET-Core-testapppppppp
+# NET-Core-testapp
 
 This is simple example for building ASP.NET Core Docker Image and run it 
 
